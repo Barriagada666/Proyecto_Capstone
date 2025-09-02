@@ -12,10 +12,10 @@ La solución propuesta es desarrollar e implementar una **plataforma de software
 
 ## 2. Integrantes del Equipo
 
-| Nombre | RUT | Carrera | Sede |
-| :--- | :--- | :--- | :--- |
-| Boris Hector Arriagada Rojas | 16.330.999-8 | Ingeniería en Informática | Viña del Mar |
-| Jaime Antonio Vicencio Rubilar| 13.9120.58-2 | Ingeniería en Informática | Viña del Mar |
+| Nombre | Carrera | Sede |
+| :--- | :--- | :--- |
+| Boris Hector Arriagada Rojas | Ingeniería en Informática | Viña del Mar |
+| Jaime Antonio Vicencio Rubilar| Ingeniería en Informática | Viña del Mar |
 
 ## 3. Objetivos del Proyecto
 
