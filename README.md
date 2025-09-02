@@ -54,19 +54,3 @@ Este método genera dos inconvenientes estratégicos:
 ## 5. Plan de Trabajo
 
 [cite_start]El proyecto se ejecutará a través de un ciclo de Sprints de cuatro semanas cada uno[cite: 14].
-
-| Sprint / Hito | Actividades Principales |
-| :--- | :--- |
-| **Sprint 0** | [cite_start]Planificación, definición del Product Backlog, elección de arquitectura y configuración de entornos (GitHub, Supabase, etc.)[cite: 18]. |
-| **Sprint 1** | [cite_start]Desarrollo del flujo de datos y seguridad: servicio ETL, API de autenticación y layout principal del frontend[cite: 18]. |
-| **Sprint 2** | [cite_start]Desarrollo del panel de administración: gestión CRUD de Usuarios, KPIs y Gráficos[cite: 18]. |
-| **Sprint 3** | [cite_start]Desarrollo del dashboard interactivo: motor de consultas dinámicas en backend y visualización de gráficos en frontend[cite: 18]. |
-| **UAT** | [cite_start]Ejecución de Pruebas de Aceptación de Usuario para validar que el MVP cumple con todos los requisitos[cite: 18]. |
-| **Entrega Final** | [cite_start]Consolidación de documentación (Informe Final, Manual de Usuario) y preparación de la defensa del proyecto[cite: 18]. |
-
-### Carta Gantt
-
-(Visualización del cronograma del proyecto por semanas)
-
-![Carta Gantt del Proyecto](https://i.imgur.com/gKkE2lS.png)
-[cite_start]*Diagrama basado en la planificación del documento* [cite: 20]
