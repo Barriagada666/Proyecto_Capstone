@@ -1,6 +1,4 @@
 ![Logo](https://i.imgur.com/FBSfgrk.png)
-# Inteligencia Operacional Cambiaso (IOC)
-
 ## 1. Descripción del Proyecto
 
 El proyecto "Intelligencia Operacional Cambiaso (IOC)" se desarrolla en el contexto de Cambiaso Hnos. S.A.C., una compañía con sede en Valparaíso, Chile. La problemática principal es la dependencia de procesos manuales para el análisis de datos críticos de producción, que se basan en la extracción de reportes de SAP a planillas de cálculo.
