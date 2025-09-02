@@ -1,4 +1,4 @@
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQqIrVsAXfVQJN3qE9az9Biq9lngy3BwWhXU7EZRqkLBamWf6mwgrW6NcplMKTGioVxOPU1JgzXykyXcAYACrqiFwq6uhjEVF3iquzRHxePjFHUS1IL7WJeJR8UR1ld7hK-zneAITqu9HenRne63tc2OWYoxBJTZR2GsH0UeBO4TOMZNQ))
+![Logo](https://i.imgur.com/FBSfgrk.png)
 # Inteligencia Operacional Cambiaso (IOC)
 
 ## 1. Descripción del Proyecto
